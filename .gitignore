@@ -32,3 +32,5 @@ sym-lib-table
 # OS-specific
 .DS_Store
 Thumbs.db
+
+half_bridge-backups/
